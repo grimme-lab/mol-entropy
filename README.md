@@ -1,5 +1,5 @@
 # Absolute molecular Entropies for flexible molecules
-This is a collection of input geometries used in https://doi.org/10.26434/chemrxiv.13626083.v1
+This is a collection of input geometries used in https://doi.org/10.1039/D1SC00621E
 
 The project utilized the freely available `crest` program, which can be obtained from https://github.com/grimme-lab/crest
 
